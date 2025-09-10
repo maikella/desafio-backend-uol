@@ -39,4 +39,9 @@ Consumir API externa com SpringBoot
 
 - https://spring.io/guides/gs/consuming-rest
 
+RestTemplate x RestClient
+
+- https://medium.com/@sunda.nitsri/rest-client-vs-webclient-vs-resttemplate-choosing-the-right-http-client-in-spring-boot-4937c67858b4
+
+- https://medium.com/threadsafe/restclient-vs-webclient-vs-resttemplate-15655f33e6bc
 
