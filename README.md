@@ -45,3 +45,31 @@ RestTemplate x RestClient
 
 - https://medium.com/threadsafe/restclient-vs-webclient-vs-resttemplate-15655f33e6bc
 
+- https://stackoverflow.com/questions/47974757/webclient-vs-resttemplate
+
+- https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient
+
+Xml para objeto java
+
+- https://stackoverflow.com/questions/44676532/how-to-use-spring-to-marshal-and-unmarshal-xml
+
+- https://stackoverflow.com/questions/55104301/convert-complex-xml-to-java-object
+
+
+- https://zetcode.com/springboot/restxml/
+
+- https://stackify.com/java-xml-jackson/
+
+- https://stacktips.com/articles/handling-xml-request-and-response-in-spring-boot-rest
+
+
+- https://stackoverflow.com/questions/48157538/jackson-xml-arraylist-output-having-two-wrapper-elements
+
+
+- https://stackoverflow.com/questions/16364547/how-to-parse-xml-to-java-object
+
+- https://stackoverflow.com/questions/11896801/convert-xml-string-to-java-object
+
+- https://stackoverflow.com/questions/50601912/convert-java-object-to-xml-rest-response
+
+- https://stackoverflow.com/questions/26959343/convert-java-object-to-xml-string
