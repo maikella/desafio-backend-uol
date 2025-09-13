@@ -73,3 +73,27 @@ Xml para objeto java
 - https://stackoverflow.com/questions/50601912/convert-java-object-to-xml-rest-response
 
 - https://stackoverflow.com/questions/26959343/convert-java-object-to-xml-string
+
+Conflitos de versão biblioteca Jackson
+
+- https://stackoverflow.com/questions/30367045/java-lang-noclassdeffounderror-com-fasterxml-jackson-core-jsonfactory
+
+Dependência Jackson para manipular Xml
+
+- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.20.0
+
+Serialização
+
+- https://www.reddit.com/r/javahelp/comments/1cdo4k2/explain_like_im_five_what_is_serializable/
+
+- https://www.reddit.com/r/java/comments/2b1ip9/serializable_what_does_it_acutally_do/
+
+- https://stackoverflow.com/questions/5260959/what-is-serializable-in-java
+
+- https://www.reddit.com/r/java/comments/qq21k/why_arent_all_objects_serializable/
+
+SQL Injection
+
+- https://stackoverflow.com/questions/50145552/error-org-springframework-jdbc-badsqlgrammarexception-statementcallback-bad-s/50145630#50145630
+
+- https://spring.io/guides/gs/relational-data-access
