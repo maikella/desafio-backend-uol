@@ -97,3 +97,22 @@ SQL Injection
 - https://stackoverflow.com/questions/50145552/error-org-springframework-jdbc-badsqlgrammarexception-statementcallback-bad-s/50145630#50145630
 
 - https://spring.io/guides/gs/relational-data-access
+
+Guia sobre a biblioteca Jackson
+
+- https://www.baeldung.com/jackson
+
+ObjectMapper
+
+- https://medium.com/@salvipriya97/objectmapper-and-its-methods-examples-in-java-4a4cab75cb6b
+
+
+
+convertValue() vs readValue()
+
+- https://stackoverflow.com/questions/45110371/no-string-argument-constructor-factory-method-to-deserialize-from-string-value
+
+- https://howtodevelope.blogspot.com/2023/05/java-objectmapper-readvalue-vs.html
+
+
+- https://stackoverflow.com/questions/10113512/readvalue-and-readtree-in-jackson-when-to-use-which
