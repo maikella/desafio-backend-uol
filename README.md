@@ -39,6 +39,13 @@ Consumir API externa com SpringBoot
 
 - https://spring.io/guides/gs/consuming-rest
 
+RestTemplate
+
+- https://www.springcloud.io/post/2022-03/spring-resttemplate/#gsc.tab=0
+
+- https://docs.spring.io/spring-android/docs/current/reference/html/rest-template.html
+
+
 RestTemplate x RestClient
 
 - https://medium.com/@sunda.nitsri/rest-client-vs-webclient-vs-resttemplate-choosing-the-right-http-client-in-spring-boot-4937c67858b4
@@ -101,6 +108,7 @@ SQL Injection
 Guia sobre a biblioteca Jackson
 
 - https://www.baeldung.com/jackson
+- https://cowtowncoder.medium.com/jackson-api-beyond-objectmapper-22b6d3bbd1ef
 
 ObjectMapper
 
@@ -116,3 +124,17 @@ convertValue() vs readValue()
 
 
 - https://stackoverflow.com/questions/10113512/readvalue-and-readtree-in-jackson-when-to-use-which
+
+@Valid e @Validated
+
+- https://stackoverflow.com/questions/36173332/difference-between-valid-and-validated-in-spring
+
+- https://stackoverflow.com/questions/3595160/what-does-the-valid-annotation-indicate-in-spring
+
+- https://medium.com/@himani.prasad016/validations-in-spring-boot-e9948aa6286b
+
+- https://www.baeldung.com/spring-valid-vs-validated
+
+@ModelAttribute
+
+- https://stackoverflow.com/questions/3423262/what-is-modelattribute-in-spring-mvc
