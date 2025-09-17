@@ -4,7 +4,12 @@ Desafio Uol
 
 - https://github.com/uolhost/test-backEnd-Java
 
+Guia Spring
+
+- https://spring.io/guides
+
 Conectar banco de dados com JDBC
+
 - https://www.h2database.com/html/tutorial.html#connecting_using_jdbc
 
 Configuração do h2 no Springboot
@@ -138,3 +143,17 @@ convertValue() vs readValue()
 @ModelAttribute
 
 - https://stackoverflow.com/questions/3423262/what-is-modelattribute-in-spring-mvc
+
+Spring JDBC Template
+
+- https://docs.redhat.com/en/documentation/red_hat_fuse/6.2/html/transaction_guide/dataaccess-jdbc
+
+- https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/core/JdbcTemplate.html
+
+batchupdate
+
+- https://stackoverflow.com/questions/36473957/performance-and-limitation-issues-between-update-and-batchupdate-methods-of
+
+- https://jenkov.com/tutorials/jdbc/batchupdate.html
+
+- https://stackoverflow.com/questions/14264953/how-is-jdbc-batch-update-helpful
