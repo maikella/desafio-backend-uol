@@ -153,3 +153,21 @@ batchupdate
 - https://jenkov.com/tutorials/jdbc/batchupdate.html
 
 - https://stackoverflow.com/questions/14264953/how-is-jdbc-batch-update-helpful
+
+Testes
+
+- https://docs.spring.io/spring-framework/reference/testing.html
+
+- https://docs.spring.io/spring-boot/reference/testing/index.html
+
+- https://spring.io/guides/gs/testing-web
+
+- https://stackoverflow.com/questions/66736159/difference-between-springboottestclasses-somecontroller-class-and-webmvcte
+
+Convenções de teste
+
+- https://www.reddit.com/r/java/comments/163ewqb/the_subtle_art_of_java_test_method_naming/
+
+- https://softwareengineering.stackexchange.com/questions/237561/naming-test-methods-in-java
+
+
