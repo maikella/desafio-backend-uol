@@ -170,4 +170,10 @@ Convenções de teste
 
 - https://softwareengineering.stackexchange.com/questions/237561/naming-test-methods-in-java
 
+@DataJdbcTest 
 
+- https://docs.spring.io/spring-boot/docs/2.1.5.RELEASE/reference/html/boot-features-testing.html#boot-features-testing-spring-boot-applications-testing-autoconfigured-data-jdbc-test
+
+@JdbcTest
+
+- https://docs.spring.io/spring-boot/docs/2.1.5.RELEASE/reference/html/boot-features-testing.html#boot-features-testing-spring-boot-applications-testing-autoconfigured-jdbc-test
