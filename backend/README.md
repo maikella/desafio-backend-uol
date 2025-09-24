@@ -3,6 +3,11 @@
 Guia Spring
 
 - https://spring.io/guides
+- https://docs.spring.io/spring-boot/docs/2.1.5.RELEASE/reference/html/
+
+Versões
+
+- https://docs.spring.io/spring-boot/docs/
 
 Conectar banco de dados com JDBC
 
@@ -161,6 +166,8 @@ Testes
 - https://docs.spring.io/spring-boot/reference/testing/index.html
 
 - https://spring.io/guides/gs/testing-web
+
+- https://felipeborgesdev.medium.com/testes-unit%C3%A1rios-com-spring-junit-mockito-e-jacoco-5e39dc6bd7fe
 
 - https://stackoverflow.com/questions/66736159/difference-between-springboottestclasses-somecontroller-class-and-webmvcte
 
